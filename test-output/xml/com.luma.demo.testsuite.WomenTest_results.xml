@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Bank Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.200">
+  <properties />
+  
+  
+            <testcase name="verifyTheSortByProductNameFilter" time="4.222" classname="com.luma.demo.testsuite.WomenTest" />
+                <testcase name="verifyTheSortByPriceFilter" time="4.978" classname="com.luma.demo.testsuite.WomenTest" />
+      
+</testsuite>
